@@ -27,8 +27,8 @@ A comprehensive solution for validating SMTP server credentials, with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smtp-checker.git
-cd smtp-checker/backend
+git clone https://github.com/roxm337/SMTPs-CHECKER-FLUTTER.git
+cd SMTPs-CHECKER-FLUTTER/backend
 ```
 
 ## Install dependencies:
@@ -46,7 +46,7 @@ API docs: http://localhost:8000/docs
 
 Navigate to the Flutter project:
 ```bash
-cd ../mobile
+cd ../checker_ui
 ```
 Install dependencies:
 ```bash
@@ -102,7 +102,7 @@ smtp-checker/
 │   ├── requirements.txt   # Python dependencies
 │   └── Result/            # Generated reports
 │
-├── mobile/                # Flutter application
+├── checker_ui/                # Flutter application
 │   ├── lib/
 │   │   ├── api/           # API service classes
 │   │   ├── models/        # Data models
