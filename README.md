@@ -33,7 +33,6 @@ cd smtp-checker/backend
 
 ## Install dependencies:
 ```bash
-Copy
 pip install -r requirements.txt
 ```
 Run the server:
